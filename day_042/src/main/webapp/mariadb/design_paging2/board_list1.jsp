@@ -28,6 +28,7 @@
 	int totalPage = 1;
 	
 	// 페이지당 출력 개수
+	int blockPerPage = 5;
 	int viewPageNo = 5;
 	int divpage = 0;
 
@@ -91,7 +92,7 @@
 			sbHtml.append("<tr>");
 			sbHtml.append("<td>&nbsp;</td>");
 			sbHtml.append("<td>" + seq + "</td>");
-			sbHtml.append("<td class='left'><a href='board_view1.jsp?seq=" + seq +"'>" + subject 
+			sbHtml.append("<td class='left'><a href='board_view1.jsp?seq=" + seq +"&cpage="+ cpage +"'>" + subject 
 					+ "</a>&nbsp;<img src='../../images/icon_new.gif' alt='NEW'></td>");
 			sbHtml.append("<td>" + writer + "</td>");
 			sbHtml.append("<td>" + wdate + "</td>");
@@ -153,35 +154,38 @@
 		<!--//게시판-->
 
 		<div class="align_right">
-			<input type="button" value="쓰기" class="btn_write btn_txt01" style="cursor: pointer;" onclick="location.href='board_write1.jsp'" />
+			<input type="button" value="쓰기" class="btn_write btn_txt01" style="cursor: pointer;" onclick="location.href='board_write1.jsp?cpage=<%=cpage %>'" />
 		</div>
 		
-		<!--페이지넘버-->
+				<!--페이지넘버-->
 		<div class="paginate_regular">
+<%
+	int startBlock = ( (cpage -1) / blockPerPage ) * blockPerPage + 1;
+	int endBlock = ( (cpage -1) / blockPerPage ) * blockPerPage + blockPerPage;
+	if ( endBlock >= totalPage ){
+		endBlock = totalPage;
+	}
+%>	
+	
 			<div align="absmiddle">
 				<!-- << 버튼 -->
 				<%
-					if(cpage <= viewPageNo && cpage > 1){
-						out.println("<span><a href='board_list1.jsp?cpage="+ 1 +"'>&lt;&lt;</a></span>");
-						out.println("&nbsp;");
-					}else if(cpage <= 1){
+					if(startBlock == 1){
 						out.println("<span><a>&lt;&lt;</a></span>");
-						out.println("&nbsp;");
-					}else{
-						out.println("<span><a href='board_list1.jsp?cpage="+ (cpage - 5) +"'>&lt;&lt;</a></span>");
-						out.println("&nbsp;");
+					} else{
+						out.println("<span><a href='board_list1.jsp?cpage="+ (startBlock - blockPerPage) +"'>&lt;&lt;</a></span>");
 					}
+					out.println("&nbsp;");
 				%>
 
 				<!-- < 버튼 -->
 				<%
 					if(cpage <= 1){
 						out.println("<span><a>&lt;</a></span>");
-						out.println("&nbsp;&nbsp;");
 					}else{
 						out.println( "<span><a href='board_list1.jsp?cpage="+ (cpage - 1) +"'>&lt;</a></span>" );
-						out.println("&nbsp;&nbsp;");
 					}
+					out.println("&nbsp;&nbsp;");
 				%>
 	
 				<!-- 페이지 번호 선택 -->
@@ -191,15 +195,7 @@
 						int endPage = (i*viewPageNo) + 5;
 						
 						// 현재페이지가 1~5, 6~10, 11~15, 16~20 등 5개 단위로 끊어져있는 영역중 어디에 있는지를 기준으로
-						if(startPage <= cpage && cpage <= endPage && i == divpage){
-							for( int j = startPage; j <= totalPage; j++){
-								if( j == cpage ){
-									out.println( "<span><a><b>["+ j +"]</b></a></span>" );
-								}else{
-									out.println( "<span><a href='board_list1.jsp?cpage="+ j +"'>"+ j +"</a></span>" );
-								}
-							}
-						}else if( startPage <= cpage && cpage <= endPage ){
+						if( startPage <= cpage && cpage <= endPage ){
 							for( int j = startPage; j <= endPage; j++){
 								if( j == cpage ){
 									out.println( "<span><a><b>["+ j +"]</b></a></span>" );
@@ -210,29 +206,24 @@
 						}
 					}
 				%>
-
+					
 				<!-- > 버튼 -->
 				<%
+					out.println("&nbsp;&nbsp;");
 					if(cpage >= totalPage){
-						out.println("&nbsp;&nbsp;");
 						out.println("<span><a>&gt;</a></span>");
 					}else{
-						out.println("&nbsp;&nbsp;");
 						out.println( "<span><a href='board_list1.jsp?cpage="+ (cpage + 1) +"'>&gt;</a></span>" );
 					}
 				%>
 
 				<!-- >> 버튼 -->
 				<%
-					if(cpage >= totalPage - viewPageNo && cpage < totalPage){
-						out.println("&nbsp;");
-						out.println("<span><a href='board_list1.jsp?cpage="+ totalPage +"'>&gt;&gt;</a></span>");
-					}else if(cpage >= totalPage){
-						out.println("&nbsp;");
+					out.println("&nbsp;");
+					if( endBlock == totalPage ){
 						out.println("<span><a>&gt;&gt;</a></span>");
 					}else{
-						out.println("&nbsp;");
-						out.println("<span><a href='board_list1.jsp?cpage="+ (cpage + 5) +"'>&gt;&gt;</a></span>");
+						out.println("<span><a href='board_list1.jsp?cpage="+ (startBlock + blockPerPage) +"'>&gt;&gt;</a></span>");
 					}
 				%>
 
