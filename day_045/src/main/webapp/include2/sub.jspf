@@ -1,0 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!-- sub.jsp -->
+
+Hello.jsp 2 <br>
+Hello.jsp 3 <br>
+<%= "i : " + i %><br>

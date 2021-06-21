@@ -77,6 +77,8 @@
 			divpage ++;
 		}
 		
+		out.println(divpage);
+		
 		// 읽을 데이터의 위치
 		int skip = ( cpage - 1 ) * recordPerPage;
 		if( skip != 0 ) rs.absolute( skip );
