@@ -1,0 +1,123 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@page import="java.util.Calendar"%>
+<%
+	request.setCharacterEncoding("utf-8");
+
+	String sYear = request.getParameter("year") == null ? "" : request.getParameter("year");
+	String sMonth = request.getParameter("month") == null ? "" : request.getParameter("month");
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>달력 보기</title>
+</head>
+<body>
+
+<!-- 본인 지정 -->
+<form action="./calender3.jsp" method="post" name="frm">
+	<select name="year">
+		<option value="2021"> 2021</option>
+		<option value="2022"> 2022</option>
+		<option value="2023"> 2023</option>
+	</select>년
+	<select name="month">
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+		<option value="10">10</option>
+		<option value="11">11</option>
+		<option value="12">12</option>
+	</select>월
+	
+	<input type="submit" value="달력 보기">
+	
+</form>
+<!-- 실행부 -->
+<% 
+	if(sYear.equals("") || sMonth.equals("")){
+		out.println("눌러서 실행하십시오");
+	}else{
+		StringBuilder sbHtml = new StringBuilder();
+
+		int year = Integer.parseInt(sYear);
+		int month = Integer.parseInt(sMonth);
+
+		//시작요일
+		int startDayOfWeek = 0;
+		int endDayOfWeek = 0;
+		// 끝나는 날짜 27, 28, 30, 31
+		int endDay = 0;
+		
+		Calendar sDay = Calendar.getInstance();
+		Calendar eDay = Calendar.getInstance();
+		
+		sDay.set(year, month-1, 1);
+		eDay.set(year, month, 1-1);
+		
+		startDayOfWeek = sDay.get(Calendar.DAY_OF_WEEK); // 시작요일
+		endDayOfWeek = eDay.get(Calendar.DAY_OF_WEEK); // 끝나는 요일
+		endDay = eDay.get(Calendar.DATE); // 마지막 날짜. 30일까지면 30, 아니면 31
+		
+		sbHtml.append("<table border='1' width='200'>");
+		sbHtml.append("<tr>").append("<td colspan='7'>");
+		sbHtml.append(year).append("년&nbsp").append(month).append("월&nbsp").append("달력").append("<br>");
+		sbHtml.append("</td>").append("</tr>");
+		
+		// 일요일 : 빨간색 / 토요일 : 파란색
+		sbHtml.append("<tr>");
+		sbHtml.append("<td>").append("<font color='red'>SU</font>").append("</td>");
+		sbHtml.append("<td>").append("MO").append("</td>");
+		sbHtml.append("<td>").append("TU").append("</td>");
+		sbHtml.append("<td>").append("WE").append("</td>");
+		sbHtml.append("<td>").append("TH").append("</td>");
+		sbHtml.append("<td>").append("FR").append("</td>");
+		sbHtml.append("<td>").append("<font color='blue'>SA</font>").append("</td>");
+		sbHtml.append("</tr>");
+		
+		// 시작 일까지 빈칸 추가
+		sbHtml.append( "<tr>" );
+		for( int i=1 ; i<startDayOfWeek ; i++ ) {
+			sbHtml.append( "<td></td>" );
+		}
+		
+		int sunday = 0;
+		for( int i=1, n=startDayOfWeek ; i<=endDay ; i++, n++ ) {
+			// 일요일 (한주의 시작) - 빨간색
+			if( n % 7 == 1 ) {
+				sbHtml.append( "<tr>" );
+				sbHtml.append( "<td><b><font color='red'>" + i + "</font></b></td>" );
+				
+			// 월~금 - 검정색
+			} else if(n%7 != 1 && n%7 != 0){
+				sbHtml.append( "<td><b>" + i + "</b></td>" );
+				
+			// 토요일 - 파란색
+			} else if(n%7 == 0){
+				sbHtml.append( "<td><b><font color='blue'>" + i + "</font></b></td>" );
+				sbHtml.append( "</tr>" );
+			}
+		}
+
+		// 끝날짜에 맞춰 빈칸 추가하기
+		for( int i=endDayOfWeek ; i<=6 ; i++ ) {
+			sbHtml.append( "<td></td>" );
+		}
+		
+		sbHtml.append( "</tr>" );
+		sbHtml.append( "</table>" );
+		
+		// 결과 출력
+		out.println(sbHtml.toString());
+	}
+	
+%>
+</body>
+</html>

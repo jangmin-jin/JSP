@@ -10,8 +10,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import model1.ZipcodeModel;
-import model1.ZipcodeOkModel;
+import service1.ZipcodeModel;
+import service1.ZipcodeOkModel;
 
 /**
  * Servlet implementation class ControllerEx01

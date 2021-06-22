@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="34">
+    <list key="modules" value0="day_036::org.eclipse.jst.jee.server:day_036::jst.web::4.0" value1="day_040::org.eclipse.jst.jee.server:day_040::jst.web::4.0" value2="day_041::org.eclipse.jst.jee.server:day_041::jst.web::4.0" value3="day_042::org.eclipse.jst.jee.server:day_042::jst.web::4.0" value4="ApplicationEx01::org.eclipse.jst.jee.server:ApplicationEx01::jst.web::4.0" value5="BoardModel2::org.eclipse.jst.jee.server:BoardModel2::jst.web::4.0" value6="URLBoardModel21::org.eclipse.jst.jee.server:URLBoardModel21::jst.web::4.0" value7="URLBoardModel2::org.eclipse.jst.jee.server:URLBoardModel2::jst.web::4.0" value8="day_045::org.eclipse.jst.jee.server:day_045::jst.web::4.0" value9="URLBoardModel2Paging::org.eclipse.jst.jee.server:URLBoardModel2Paging::jst.web::4.0"/>
+  </server>
+</servers>

@@ -1,0 +1,83 @@
+package controller;
+
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class ControllerEx01
+ */
+@WebServlet("/controller")
+public class ControllerEx01 extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		this.doProcess(request, response);
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		this.doProcess(request, response);
+	}
+
+	protected void doProcess(HttpServletRequest request, HttpServletResponse response) {
+		// TODO Auto-generated method stub
+		//controller?action=write
+		//controller?action=write_ok
+		//controller?action=list
+		//controller?action=view
+		//controller?action=modify
+		//controller?action=modify_ok
+		//controller?action=delete
+		//controller?action=delete_ok
+		
+		try {
+			request.setCharacterEncoding("utf-8");
+			
+			String action = request.getParameter("action");
+			
+			String url = "";
+			
+			if(action == null || action.equals("") || action.equals("lists")) {
+				url = "";
+			} else if( action.equals("view") ) {
+				url = "";
+			} else if( action.equals("write") ) {
+				url = "";
+			} else if( action.equals("write_ok") ) {
+				url = "";
+			} else if( action.equals("modify") ) {
+				url = "";
+			} else if( action.equals("modify_ok") ) {
+				url = "";
+			} else if( action.equals("delete") ) {
+				url = "";
+			} else if( action.equals("delete_ok") ) {
+				url = "";
+			} 
+			
+			RequestDispatcher dispatcher = request.getRequestDispatcher(url);
+			dispatcher.forward(request, response);
+		} catch (UnsupportedEncodingException e) {
+			System.out.println("에러 : " + e.getMessage());
+		} catch (ServletException e) {
+			System.out.println("에러 : " + e.getMessage());
+		} catch (IOException e) {
+			System.out.println("에러 : " + e.getMessage());
+		}
+		
+	}
+}

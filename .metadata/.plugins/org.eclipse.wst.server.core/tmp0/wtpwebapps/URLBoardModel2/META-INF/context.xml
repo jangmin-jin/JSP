@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+	<Resource
+		name="jdbc/mariadb"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="org.mariadb.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/project"
+		username="project"
+		password="123456" />
+
+</Context>

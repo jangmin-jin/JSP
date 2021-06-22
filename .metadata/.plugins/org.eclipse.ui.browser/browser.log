@@ -1,0 +1,400 @@
+
+6월 03, 2021 10:49:33.382 NEW SESSION
+6월 03, 2021 10:49:33.382 [34544:4608:0603/104933.380:ERROR:device_event_log_impl.cc(214)] [10:49:33.380] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+6월 09, 2021 10:48:11.324 NEW SESSION
+6월 09, 2021 10:48:11.324 [39612:58328:0609/104811.323:ERROR:device_event_log_impl.cc(214)] [10:48:11.323] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 09, 2021 10:48:15.95 [39612:58328:0609/104815.095:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 10:48:15.100 [39612:58328:0609/104815.099:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 09, 2021 10:48:15.100 
+6월 09, 2021 10:48:15.101  Stack:Error: TypeError: Failed to fetch
+6월 09, 2021 10:48:15.101     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 09 2021 10:48:15 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 09, 2021 10:48:15.101 [39612:58328:0609/104815.099:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 10:50:51.11 [29284:21812:0609/105051.011:ERROR:device_event_log_impl.cc(214)] [10:50:51.011] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 09, 2021 10:52:18.173 [29284:21812:0609/105218.172:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 10:52:18.174 [29284:21812:0609/105218.174:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 09, 2021 10:52:18.174 
+6월 09, 2021 10:52:18.174  Stack:Error: TypeError: Failed to fetch
+6월 09, 2021 10:52:18.174     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 09 2021 10:52:18 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 09, 2021 10:52:18.175 [29284:21812:0609/105218.174:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 17:47:47.727 [29284:21812:0609/174747.727:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 09, 2021 17:47:55.89 [29284:21812:0609/174755.088:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 17:47:55.91 [29284:21812:0609/174755.091:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 09, 2021 17:47:55.91 
+6월 09, 2021 17:47:55.91  Stack:Error: TypeError: Failed to fetch
+6월 09, 2021 17:47:55.92     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 09 2021 17:47:55 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 09, 2021 17:47:55.92 [29284:21812:0609/174755.091:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 18:03:58.768 [60092:60696:0609/180358.768:ERROR:device_event_log_impl.cc(214)] [18:03:58.768] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 09, 2021 18:03:58.787 [60092:60696:0609/180358.787:ERROR:device_event_log_impl.cc(214)] [18:03:58.787] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 09, 2021 18:05:07.78 [60092:60696:0609/180507.078:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 09, 2021 18:05:07.79 [60092:60696:0609/180507.079:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 09, 2021 18:05:07.79 
+6월 09, 2021 18:05:07.80  Stack:Error: TypeError: Failed to fetch
+6월 09, 2021 18:05:07.80     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 09 2021 18:05:07 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 09, 2021 18:05:07.80 [60092:60696:0609/180507.079:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+
+6월 10, 2021 09:32:27.626 NEW SESSION
+6월 10, 2021 09:32:27.626 [64120:53564:0610/093227.624:ERROR:device_event_log_impl.cc(214)] [09:32:27.623] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 10, 2021 09:32:27.626 [64120:53564:0610/093227.626:ERROR:device_event_log_impl.cc(214)] [09:32:27.625] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 10, 2021 09:32:43.759 [64120:53564:0610/093243.759:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 10, 2021 09:32:43.766 [64120:53564:0610/093243.765:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 10, 2021 09:32:43.766 
+6월 10, 2021 09:32:43.766  Stack:Error: TypeError: Failed to fetch
+6월 10, 2021 09:32:43.766     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 10 2021 09:32:43 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 10, 2021 09:32:43.767 [64120:53564:0610/093243.765:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 10, 2021 16:08:32.936 [64120:53564:0610/160832.936:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 10, 2021 16:08:37.759 [64120:53564:0610/160837.759:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 10, 2021 16:08:37.762 [64120:53564:0610/160837.761:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 10, 2021 16:08:37.762 
+6월 10, 2021 16:08:37.762  Stack:Error: TypeError: Failed to fetch
+6월 10, 2021 16:08:37.762     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 10 2021 16:08:37 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 10, 2021 16:08:37.762 [64120:53564:0610/160837.761:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+
+6월 11, 2021 01:12:42.498 NEW SESSION
+6월 11, 2021 01:12:42.498 [35188:47300:0611/011242.497:ERROR:device_event_log_impl.cc(214)] [01:12:42.497] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+6월 11, 2021 01:15:40.624 NEW SESSION
+6월 11, 2021 01:15:40.624 [57464:58684:0611/011540.623:ERROR:device_event_log_impl.cc(214)] [01:15:40.622] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+6월 11, 2021 09:22:24.22 NEW SESSION
+6월 11, 2021 09:22:24.22 [60876:49788:0611/092224.021:ERROR:device_event_log_impl.cc(214)] [09:22:24.021] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 11, 2021 09:23:05.893 [60876:49788:0611/092305.893:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 11, 2021 09:23:05.902 [60876:49788:0611/092305.902:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 11, 2021 09:23:05.903 
+6월 11, 2021 09:23:05.903  Stack:Error: TypeError: Failed to fetch
+6월 11, 2021 09:23:05.903     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Fri Jun 11 2021 09:23:05 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 11, 2021 09:23:05.903 [60876:49788:0611/092305.902:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 11, 2021 12:30:56.428 [62148:51064:0611/123056.428:ERROR:device_event_log_impl.cc(214)] [12:30:56.428] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 11, 2021 12:31:10.912 [62148:51064:0611/123110.912:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 11, 2021 12:31:10.916 [62148:51064:0611/123110.916:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 11, 2021 12:31:10.917 
+6월 11, 2021 12:31:10.917  Stack:Error: TypeError: Failed to fetch
+6월 11, 2021 12:31:10.917     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Fri Jun 11 2021 12:31:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 11, 2021 12:31:10.917 [62148:51064:0611/123110.916:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 11, 2021 14:17:43.649 [54256:51120:0611/141743.648:ERROR:device_event_log_impl.cc(214)] [14:17:43.649] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 11, 2021 14:17:54.902 [54256:51120:0611/141754.901:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 11, 2021 14:17:54.903 [54256:51120:0611/141754.903:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 11, 2021 14:17:54.904 
+6월 11, 2021 14:17:54.904  Stack:Error: TypeError: Failed to fetch
+6월 11, 2021 14:17:54.904     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Fri Jun 11 2021 14:17:54 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 11, 2021 14:17:54.905 [54256:51120:0611/141754.903:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 11, 2021 16:46:10.935 [54256:51120:0611/164610.934:ERROR:CONSOLE(1569)] "Fri Jun 11 2021 16:46:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623397570931 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210610.173","appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber MSNAnaheimNewsNTPImages"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.6d6b31af3dbe36472922.js (1569)
+6월 11, 2021 16:46:10.935 [54256:51120:0611/164610.935:ERROR:CONSOLE(1569)] "Fri Jun 11 2021 16:46:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623397570936 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210610.173","appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber MSNNewsCoachmark"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.6d6b31af3dbe36472922.js (1569)
+6월 11, 2021 16:46:10.936 [54256:51120:0611/164610.936:ERROR:CONSOLE(1569)] "Fri Jun 11 2021 16:46:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623397570937 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210610.173","appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber ConditionalBanner"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.6d6b31af3dbe36472922.js (1569)
+6월 11, 2021 16:46:11.65 [54256:51120:0611/164611.064:ERROR:CONSOLE(1569)] "Fri Jun 11 2021 16:46:11 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623397571065 {"id":35609,"source":"EntryPointEdgeNext.connector.ts","severity":1,"pb":{"build":"20210610.173","appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest"},"message":"chrome.embeddedSearch.newTabPage.getTabTimings returned false."}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.6d6b31af3dbe36472922.js (1569)
+6월 11, 2021 16:46:11.130 [54256:51120:0611/164611.130:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing (0)
+6월 11, 2021 16:46:11.138 [54256:51120:0611/164611.138:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 11, 2021 16:46:11.139 
+6월 11, 2021 16:46:11.139  Stack:Error: TypeError: Failed to fetch
+6월 11, 2021 16:46:11.139     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Fri Jun 11 2021 16:46:11 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 11, 2021 16:46:11.140 [54256:51120:0611/164611.138:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing (0)
+6월 11, 2021 17:26:42.587 Entity: line 1: parser error : Extra content at the end of the document
+6월 11, 2021 17:26:42.587 
+6월 11, 2021 17:26:42.587 ^
+6월 11, 2021 17:26:42.587 [54256:36640:0611/172642.586:ERROR:encryption_keys_fetcher.cc(227)] Get keydata failed: Response Code (bogus on error): 400 Content-Length (bogus on error): 676 X-AFS-Tracking:  Server Status: SYNC_SERVER_ERROR
+
+6월 14, 2021 09:31:19.190 NEW SESSION
+6월 14, 2021 09:31:19.190 [25348:16348:0614/093119.188:ERROR:device_event_log_impl.cc(214)] [09:31:19.188] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 14, 2021 09:31:42.534 [25348:16348:0614/093142.534:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 09:31:42.537 [25348:16348:0614/093142.537:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 09:31:42.537 
+6월 14, 2021 09:31:42.538  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 09:31:42.538     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 09:31:42 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 09:31:42.538 [25348:16348:0614/093142.537:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:14:28.70 [25348:16348:0614/101428.070:ERROR:CONSOLE(1569)] "Mon Jun 14 2021 10:14:28 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623633268070 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210612.15","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber MSNAnaheimNewsNTPImages"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.706fa6880d3c5552fff0.js (1569)
+6월 14, 2021 10:14:28.71 [25348:16348:0614/101428.071:ERROR:CONSOLE(1569)] "Mon Jun 14 2021 10:14:28 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623633268071 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210612.15","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber MSNNewsCoachmark"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.706fa6880d3c5552fff0.js (1569)
+6월 14, 2021 10:14:28.72 [25348:16348:0614/101428.072:ERROR:CONSOLE(1569)] "Mon Jun 14 2021 10:14:28 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623633268073 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210612.15","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber ConditionalBanner"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.706fa6880d3c5552fff0.js (1569)
+6월 14, 2021 10:14:28.82 [25348:16348:0614/101428.082:ERROR:CONSOLE(1569)] "Mon Jun 14 2021 10:14:28 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623633268082 {"id":29002,"source":"WebWorkerUtility.ts","severity":1,"pb":{"build":"20210612.15","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210608.6_master","buildAlias":"latest","customMessage":"Web worker request timed out after 1000ms for request id: [AAL0mke]"},"message":"Web worker request timed out"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.706fa6880d3c5552fff0.js (1569)
+6월 14, 2021 10:14:28.942 [25348:16348:0614/101428.942:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 14, 2021 10:14:42.517 [25348:16348:0614/101442.516:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:14:42.518 [25348:16348:0614/101442.518:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 10:14:42.518 
+6월 14, 2021 10:14:42.519  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 10:14:42.519     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 10:14:42 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 10:14:42.519 [25348:16348:0614/101442.518:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:15:46.524 [25348:16348:0614/101546.524:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:15:46.525 [25348:16348:0614/101546.525:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 10:15:46.526 
+6월 14, 2021 10:15:46.526  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 10:15:46.526     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 10:15:46 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 10:15:46.526 [25348:16348:0614/101546.525:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:25:35.375 [18000:18204:0614/102535.375:ERROR:device_event_log_impl.cc(214)] [10:25:35.375] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 14, 2021 10:25:40.541 [18000:18204:0614/102540.540:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:25:40.542 [18000:18204:0614/102540.542:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 10:25:40.543 
+6월 14, 2021 10:25:40.543  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 10:25:40.543     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 10:25:40 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 10:25:40.543 [18000:18204:0614/102540.542:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:31:36.78 [17720:29936:0614/103136.077:ERROR:device_event_log_impl.cc(214)] [10:31:36.077] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 14, 2021 10:32:23.548 [17720:29936:0614/103223.548:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 10:32:23.550 [17720:29936:0614/103223.550:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 10:32:23.550 
+6월 14, 2021 10:32:23.550  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 10:32:23.550     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 10:32:23 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 10:32:23.551 [17720:29936:0614/103223.550:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 17:11:41.625 [17720:29936:0614/171141.625:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 14, 2021 17:12:52.519 [17720:29936:0614/171252.518:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 17:12:52.523 [17720:29936:0614/171252.522:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 17:12:52.523 
+6월 14, 2021 17:12:52.523  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 17:12:52.523     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 17:12:52 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 17:12:52.523 [17720:29936:0614/171252.522:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 17:31:44.520 [17720:29936:0614/173144.520:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 17:31:44.522 [17720:29936:0614/173144.522:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 14, 2021 17:31:44.522 
+6월 14, 2021 17:31:44.523  Stack:Error: TypeError: Failed to fetch
+6월 14, 2021 17:31:44.523     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Mon Jun 14 2021 17:31:44 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 14, 2021 17:31:44.523 [17720:29936:0614/173144.522:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 14, 2021 17:33:01.967 Entity: line 1: parser error : Extra content at the end of the document
+6월 14, 2021 17:33:01.967 
+6월 14, 2021 17:33:01.967 ^
+6월 14, 2021 17:33:01.967 [17720:17332:0614/173301.967:ERROR:encryption_keys_fetcher.cc(227)] Get keydata failed: Response Code (bogus on error): 400 Content-Length (bogus on error): 676 X-AFS-Tracking:  Server Status: SYNC_SERVER_ERROR
+
+6월 15, 2021 09:16:58.902 NEW SESSION
+6월 15, 2021 09:16:58.902 [18120:34256:0615/091658.900:ERROR:device_event_log_impl.cc(214)] [09:16:58.899] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 15, 2021 09:17:31.510 [18120:34256:0615/091731.509:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 09:17:31.511 [18120:34256:0615/091731.511:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 15, 2021 09:17:31.511 
+6월 15, 2021 09:17:31.512  Stack:Error: TypeError: Failed to fetch
+6월 15, 2021 09:17:31.512     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Tue Jun 15 2021 09:17:31 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 15, 2021 09:17:31.512 [18120:34256:0615/091731.511:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 11:07:17.493 [18120:34256:0615/110717.492:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 15, 2021 11:07:43.511 [18120:34256:0615/110743.511:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 11:07:43.512 [18120:34256:0615/110743.512:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 15, 2021 11:07:43.512 
+6월 15, 2021 11:07:43.512  Stack:Error: TypeError: Failed to fetch
+6월 15, 2021 11:07:43.512     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Tue Jun 15 2021 11:07:43 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 15, 2021 11:07:43.512 [18120:34256:0615/110743.512:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 14:18:56.371 [32364:16900:0615/141856.371:ERROR:device_event_log_impl.cc(214)] [14:18:56.371] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 15, 2021 14:19:35.513 [32364:16900:0615/141935.513:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 14:19:36.513 [32364:16900:0615/141936.513:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 14:19:36.515 [32364:16900:0615/141936.515:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 15, 2021 14:19:36.515 
+6월 15, 2021 14:19:36.516  Stack:Error: TypeError: Failed to fetch
+6월 15, 2021 14:19:36.516     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Tue Jun 15 2021 14:19:36 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 15, 2021 14:19:36.516 [32364:16900:0615/141936.515:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 14:22:57.785 [18988:16668:0615/142257.785:ERROR:device_event_log_impl.cc(214)] [14:22:57.786] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 15, 2021 14:23:34.513 [18988:16668:0615/142334.513:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 14:23:34.513 [18988:16668:0615/142334.513:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 15, 2021 14:23:34.514 
+6월 15, 2021 14:23:34.514  Stack:Error: TypeError: Failed to fetch
+6월 15, 2021 14:23:34.514     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Tue Jun 15 2021 14:23:34 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 15, 2021 14:23:34.514 [18988:16668:0615/142334.513:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 15:12:55.397 [18988:16668:0615/151255.397:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 15, 2021 15:13:58.512 [18988:16668:0615/151358.512:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 15:13:58.514 [18988:16668:0615/151358.514:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 15, 2021 15:13:58.514 
+6월 15, 2021 15:13:58.514  Stack:Error: TypeError: Failed to fetch
+6월 15, 2021 15:13:58.515     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Tue Jun 15 2021 15:13:58 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 15, 2021 15:13:58.515 [18988:16668:0615/151358.514:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 16:44:08.520 [18988:16668:0615/164408.520:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 15, 2021 16:44:08.522 [18988:16668:0615/164408.522:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 15, 2021 16:44:08.523 
+6월 15, 2021 16:44:08.523  Stack:Error: TypeError: Failed to fetch
+6월 15, 2021 16:44:08.523     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Tue Jun 15 2021 16:44:08 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 15, 2021 16:44:08.523 [18988:16668:0615/164408.522:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+
+6월 16, 2021 09:25:06.896 NEW SESSION
+6월 16, 2021 09:25:06.896 [31612:1728:0616/092506.895:ERROR:device_event_log_impl.cc(214)] [09:25:06.895] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 16, 2021 09:25:13.571 [31612:1728:0616/092513.571:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 09:25:13.573 [31612:1728:0616/092513.573:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 09:25:13.574 
+6월 16, 2021 09:25:13.574  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 09:25:13.574     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 09:25:13 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 09:25:13.574 [31612:1728:0616/092513.573:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 09:28:38.902 [31612:1728:0616/092838.901:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 16, 2021 09:28:57.566 [31612:1728:0616/092857.566:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 09:28:57.568 [31612:1728:0616/092857.567:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 09:28:57.568 
+6월 16, 2021 09:28:57.568  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 09:28:57.568     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 09:28:57 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 09:28:57.568 [31612:1728:0616/092857.567:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 09:33:13.576 [31612:1728:0616/093313.576:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 09:33:13.579 [31612:1728:0616/093313.578:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 09:33:13.579 
+6월 16, 2021 09:33:13.579  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 09:33:13.579     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 09:33:13 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 09:33:13.580 [31612:1728:0616/093313.578:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 10:11:46.576 [31612:1728:0616/101146.571:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 10:11:46.577 [31612:1728:0616/101146.575:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 10:11:46.577 
+6월 16, 2021 10:11:46.577  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 10:11:46.577     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 10:11:46 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 10:11:46.578 [31612:1728:0616/101146.575:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 10:40:00.587 [31612:1728:0616/104000.586:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 10:40:00.592 [31612:1728:0616/104000.592:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 10:40:00.592 
+6월 16, 2021 10:40:00.593  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 10:40:00.593     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 10:40:00 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 10:40:00.593 [31612:1728:0616/104000.592:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 11:15:45.573 [31612:1728:0616/111545.573:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 11:15:45.575 [31612:1728:0616/111545.574:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 11:15:45.575 
+6월 16, 2021 11:15:45.575  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 11:15:45.576     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 11:15:45 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 11:15:45.576 [31612:1728:0616/111545.575:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 11:44:58.514 [31612:1728:0616/114458.514:ERROR:CONSOLE(1575)] "Wed Jun 16 2021 11:44:58 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623811498512 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210615.392","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210615.9_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber MSNAnaheimNewsNTPImages"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.559bde42f45d000e6a18.js (1575)
+6월 16, 2021 11:44:58.515 [31612:1728:0616/114458.515:ERROR:CONSOLE(1575)] "Wed Jun 16 2021 11:44:58 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623811498514 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210615.392","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210615.9_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber MSNNewsCoachmark"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.559bde42f45d000e6a18.js (1575)
+6월 16, 2021 11:44:58.517 [31612:1728:0616/114458.517:ERROR:CONSOLE(1575)] "Wed Jun 16 2021 11:44:58 GMT+0900 (���븳誘쇨뎅 �몴以��떆): 1623811498516 {"id":35129,"source":"SubscriberValidator.ts","severity":1,"pb":{"build":"20210615.392","isVisible":false,"appType":"edgeChromium","pcsVersion":"20210615.9_master","buildAlias":"latest","customMessage":"parameters AREF,ISU,APRIMB for subscriber ConditionalBanner"},"message":"Missing parameters for subscriber"}", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/common.559bde42f45d000e6a18.js (1575)
+6월 16, 2021 11:45:45.618 [31612:1728:0616/114545.618:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 11:45:45.619 [31612:1728:0616/114545.619:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 11:45:45.620 
+6월 16, 2021 11:45:45.620  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 11:45:45.620     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 11:45:45 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 11:45:45.620 [31612:1728:0616/114545.619:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 13:42:44.599 [31612:1728:0616/134244.599:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 13:42:44.608 [31612:1728:0616/134244.607:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 13:42:44.608 
+6월 16, 2021 13:42:44.608  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 13:42:44.608     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 13:42:44 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 13:42:44.609 [31612:1728:0616/134244.607:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 13:43:10.568 [31612:1728:0616/134310.568:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 13:43:10.569 [31612:1728:0616/134310.569:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 13:43:10.569 
+6월 16, 2021 13:43:10.570  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 13:43:10.570     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 13:43:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 13:43:10.570 [31612:1728:0616/134310.569:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 13:46:07.799 [31612:1728:0616/134607.798:ERROR:CONSOLE(219)] "Unexpected condition on edge://permission-request-dialog/: Could not find value for permissionTypeTwo", source: edge://resources/js/load_time_data.js (219)
+6월 16, 2021 13:46:07.799 [31612:1728:0616/134607.798:ERROR:CONSOLE(219)] "Unexpected condition on edge://permission-request-dialog/: [undefined] (permissionTypeTwo) is not a string", source: edge://resources/js/load_time_data.js (219)
+6월 16, 2021 14:53:13.578 [31612:1728:0616/145313.577:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 14:53:13.582 [31612:1728:0616/145313.581:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 14:53:13.582 
+6월 16, 2021 14:53:13.582  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 14:53:13.582     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 14:53:13 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 14:53:13.582 [31612:1728:0616/145313.581:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 15:33:11.569 [31612:1728:0616/153311.568:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 16, 2021 15:33:11.570 [31612:1728:0616/153311.570:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 16, 2021 15:33:11.571 
+6월 16, 2021 15:33:11.571  Stack:Error: TypeError: Failed to fetch
+6월 16, 2021 15:33:11.571     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Wed Jun 16 2021 15:33:11 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 16, 2021 15:33:11.571 [31612:1728:0616/153311.570:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+
+6월 17, 2021 09:09:24.165 NEW SESSION
+6월 17, 2021 09:09:24.165 [11820:10144:0617/090924.164:ERROR:device_event_log_impl.cc(214)] [09:09:24.164] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 09:29:30.903 [31264:17160:0617/092930.903:ERROR:device_event_log_impl.cc(214)] [09:29:30.902] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 09:32:56.667 [14132:12636:0617/093256.666:ERROR:device_event_log_impl.cc(214)] [09:32:56.666] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 09:36:06.291 [37452:17920:0617/093606.290:ERROR:device_event_log_impl.cc(214)] [09:36:06.291] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 09:42:29.843 [11932:38800:0617/094229.843:ERROR:device_event_log_impl.cc(214)] [09:42:29.843] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 09:42:55.717 [11932:38800:0617/094255.716:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 09:42:55.718 [11932:38800:0617/094255.718:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 17, 2021 09:42:55.718 
+6월 17, 2021 09:42:55.718  Stack:Error: TypeError: Failed to fetch
+6월 17, 2021 09:42:55.718     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 17 2021 09:42:55 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 09:42:55.719 [11932:38800:0617/094255.718:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 09:46:42.157 [11932:38800:0617/094642.156:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 17, 2021 09:46:53.724 [11932:38800:0617/094653.724:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 09:46:53.726 [11932:38800:0617/094653.726:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 17, 2021 09:46:53.726 
+6월 17, 2021 09:46:53.726  Stack:Error: TypeError: Failed to fetch
+6월 17, 2021 09:46:53.727     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 17 2021 09:46:53 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 09:46:53.727 [11932:38800:0617/094653.726:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 10:30:58.24 [27848:28224:0617/103058.023:ERROR:device_event_log_impl.cc(214)] [10:30:58.023] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 10:31:12.714 [27848:28224:0617/103112.714:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 10:31:12.716 [27848:28224:0617/103112.715:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 17, 2021 10:31:12.716 
+6월 17, 2021 10:31:12.716  Stack:Error: TypeError: Failed to fetch
+6월 17, 2021 10:31:12.716     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 17 2021 10:31:12 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 10:31:12.716 [27848:28224:0617/103112.715:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 10:31:15.810 [27848:28224:0617/103115.810:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Jun 17 2021 10:31:15 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 10:31:15.811 [27848:28224:0617/103115.810:ERROR:CONSOLE(1)] " [object Object] Thu Jun 17 2021 10:31:15 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 10:37:35.405 [29476:5380:0617/103735.405:ERROR:device_event_log_impl.cc(214)] [10:37:35.404] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 10:38:03.718 [29476:5380:0617/103803.718:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 10:38:03.720 [29476:5380:0617/103803.720:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 17, 2021 10:38:03.720 
+6월 17, 2021 10:38:03.721  Stack:Error: TypeError: Failed to fetch
+6월 17, 2021 10:38:03.721     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 17 2021 10:38:03 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 10:38:03.721 [29476:5380:0617/103803.720:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 11:22:38.743 [13564:22372:0617/112238.742:ERROR:device_event_log_impl.cc(214)] [11:22:38.742] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 17, 2021 11:23:29.716 [13564:22372:0617/112329.715:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 17, 2021 11:23:29.717 [13564:22372:0617/112329.717:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 17, 2021 11:23:29.717 
+6월 17, 2021 11:23:29.718  Stack:Error: TypeError: Failed to fetch
+6월 17, 2021 11:23:29.718     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Thu Jun 17 2021 11:23:29 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 17, 2021 11:23:29.718 [13564:22372:0617/112329.717:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+
+6월 18, 2021 09:16:58.188 NEW SESSION
+6월 18, 2021 09:16:58.188 [27576:15668:0618/091658.186:ERROR:device_event_log_impl.cc(214)] [09:16:58.186] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 18, 2021 09:16:58.189 [27576:15668:0618/091658.189:ERROR:device_event_log_impl.cc(214)] [09:16:58.189] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 18, 2021 09:17:01.656 [27576:15668:0618/091701.656:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 18, 2021 09:17:01.659 [27576:15668:0618/091701.659:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 18, 2021 09:17:01.659 
+6월 18, 2021 09:17:01.660  Stack:Error: TypeError: Failed to fetch
+6월 18, 2021 09:17:01.660     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js:1:89954 [object Object] Fri Jun 18 2021 09:17:01 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.75f4411cef43db1eb41a.js (1)
+6월 18, 2021 09:17:01.660 [27576:15668:0618/091701.659:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 18, 2021 09:32:56.625 Entity: line 1: parser error : Extra content at the end of the document
+6월 18, 2021 09:32:56.626 
+6월 18, 2021 09:32:56.626 ^
+6월 18, 2021 09:32:56.626 [27576:21156:0618/093256.625:ERROR:encryption_keys_fetcher.cc(227)] Get keydata failed: Response Code (bogus on error): 400 Content-Length (bogus on error): 676 X-AFS-Tracking:  Server Status: SYNC_SERVER_ERROR
+6월 18, 2021 09:54:38.175 [27576:15668:0618/095438.175:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 18, 2021 09:54:44.661 [27576:15668:0618/095444.661:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 18, 2021 09:54:44.662 [27576:15668:0618/095444.662:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 18, 2021 09:54:44.663 
+6월 18, 2021 09:54:44.663  Stack:Error: TypeError: Failed to fetch
+6월 18, 2021 09:54:44.663     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Fri Jun 18 2021 09:54:44 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 18, 2021 09:54:44.664 [27576:15668:0618/095444.662:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 18, 2021 16:02:09.980 [27576:15668:0618/160209.979:ERROR:device_event_log_impl.cc(214)] [16:02:09.980] USB: usb_service_win.cc:352 Could not get child device's service name: 요소가 없습니다. (0x490)
+6월 18, 2021 16:02:12.429 [27576:15668:0618/160212.429:ERROR:device_event_log_impl.cc(214)] [16:02:12.428] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+
+6월 21, 2021 09:35:24.886 NEW SESSION
+6월 21, 2021 09:35:24.886 [13080:6680:0621/093524.885:ERROR:device_event_log_impl.cc(214)] [09:35:24.885] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 21, 2021 09:35:29.269 [13080:6680:0621/093529.269:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 09:35:29.422 [13080:6680:0621/093529.422:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 21, 2021 09:35:29.422 
+6월 21, 2021 09:35:29.422  Stack:Error: TypeError: Failed to fetch
+6월 21, 2021 09:35:29.423     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Mon Jun 21 2021 09:35:29 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 21, 2021 09:35:29.423 [13080:6680:0621/093529.422:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 09:36:16.76 [25932:24080:0621/093616.076:ERROR:device_event_log_impl.cc(214)] [09:36:16.075] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 21, 2021 09:36:48.231 [25932:24080:0621/093648.231:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 09:36:48.233 [25932:24080:0621/093648.233:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 21, 2021 09:36:48.233 
+6월 21, 2021 09:36:48.233  Stack:Error: TypeError: Failed to fetch
+6월 21, 2021 09:36:48.234     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Mon Jun 21 2021 09:36:48 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 21, 2021 09:36:48.234 [25932:24080:0621/093648.233:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 16:58:56.298 [25480:28804:0621/165856.298:ERROR:device_event_log_impl.cc(214)] [16:58:56.298] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 21, 2021 16:59:01.283 [25480:28804:0621/165901.282:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing (0)
+6월 21, 2021 16:59:01.313 [25480:28804:0621/165901.313:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 21, 2021 16:59:01.313 
+6월 21, 2021 16:59:01.314  Stack:Error: TypeError: Failed to fetch
+6월 21, 2021 16:59:01.314     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Mon Jun 21 2021 16:59:01 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 21, 2021 16:59:01.314 [25480:28804:0621/165901.313:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing (0)
+6월 21, 2021 16:59:34.228 [25480:28804:0621/165934.228:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 16:59:34.229 [25480:28804:0621/165934.228:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 21, 2021 16:59:34.229 
+6월 21, 2021 16:59:34.229  Stack:Error: TypeError: Failed to fetch
+6월 21, 2021 16:59:34.229     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Mon Jun 21 2021 16:59:34 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 21, 2021 16:59:34.229 [25480:28804:0621/165934.228:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 17:03:37.116 [25480:28804:0621/170337.116:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 21, 2021 17:04:16.229 [25480:28804:0621/170416.229:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 17:04:16.230 [25480:28804:0621/170416.230:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 21, 2021 17:04:16.230 
+6월 21, 2021 17:04:16.231  Stack:Error: TypeError: Failed to fetch
+6월 21, 2021 17:04:16.231     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Mon Jun 21 2021 17:04:16 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 21, 2021 17:04:16.231 [25480:28804:0621/170416.230:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 17:09:02.281 [25480:28804:0621/170902.273:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 21, 2021 17:09:02.281 [25480:28804:0621/170902.281:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 21, 2021 17:09:02.281 
+6월 21, 2021 17:09:02.281  Stack:Error: TypeError: Failed to fetch
+6월 21, 2021 17:09:02.282     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Mon Jun 21 2021 17:09:02 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 21, 2021 17:09:02.282 [25480:28804:0621/170902.281:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+
+6월 22, 2021 09:51:27.113 NEW SESSION
+6월 22, 2021 09:51:27.113 [22524:23908:0622/095127.111:ERROR:device_event_log_impl.cc(214)] [09:51:27.111] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+6월 22, 2021 09:51:33.963 [22524:23908:0622/095133.963:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 22, 2021 09:51:33.966 [22524:23908:0622/095133.966:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 22, 2021 09:51:33.967 
+6월 22, 2021 09:51:33.967  Stack:Error: TypeError: Failed to fetch
+6월 22, 2021 09:51:33.967     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Tue Jun 22 2021 09:51:33 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 22, 2021 09:51:33.967 [22524:23908:0622/095133.966:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 22, 2021 10:58:56.640 [22524:23908:0622/105856.640:ERROR:CONSOLE(1)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.msn.com') does not match the recipient window's origin ('https://ntp.msn.com').", source: https://www.msn.com/ko-kr/homepage/secure/silentpassport?secure=true& (1)
+6월 22, 2021 10:59:08.961 [22524:23908:0622/105908.961:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 22, 2021 10:59:08.962 [22524:23908:0622/105908.962:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 22, 2021 10:59:08.963 
+6월 22, 2021 10:59:08.963  Stack:Error: TypeError: Failed to fetch
+6월 22, 2021 10:59:08.963     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Tue Jun 22 2021 10:59:08 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 22, 2021 10:59:08.963 [22524:23908:0622/105908.962:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 22, 2021 12:23:24.12 [22524:23908:0622/122324.011:ERROR:CONSOLE(0)] "Access to fetch at 'https://www.bing.com/rp/rms_pr.png' from origin 'https://ntp.msn.com' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'.", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)
+6월 22, 2021 12:23:24.18 [22524:23908:0622/122324.017:ERROR:CONSOLE(1)] "UnhandledError:Error: TypeError: Failed to fetch
+6월 22, 2021 12:23:24.18 
+6월 22, 2021 12:23:24.18  Stack:Error: TypeError: Failed to fetch
+6월 22, 2021 12:23:24.18     at https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js:1:88302 [object Object] Tue Jun 22 2021 12:23:24 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.8d66af85a82684520da0.js (1)
+6월 22, 2021 12:23:24.18 [22524:23908:0622/122324.017:ERROR:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://ntp.msn.com/edge/ntp?locale=ko&title=%EC%83%88%20%ED%83%AD&dsp=1&sp=Bing&prerender=1 (0)

@@ -131,7 +131,7 @@
 		}
 		out.println("history.back();");
 	}else{
-		out.println("alert('게시글 수정에 실패하였습니다. 관리자에게 문의해주세요.');");rk todaud
+		out.println("alert('게시글 수정에 실패하였습니다. 관리자에게 문의해주세요.');");
 		
 		// 오류가 발생했을 때에도 무조건 업로드 되어버리는 파일 삭제
 		if( newFilename != null){
